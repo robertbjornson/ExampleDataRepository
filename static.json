@@ -14,11 +14,13 @@
       },
       "globus": {
         "application": {
-          "client_id": "fa198f1c-d1d5-407e-b2e1-67afdff1e1a9"
+          "_comment": "thick client",
+          "client_id": "1a799b37-c728-4368-96da-04ccccc0b1c3"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "_comment": "mccleary endpoint",
+          "collection_id": "fa56d2d4-adfd-4f1e-b735-5f28bde144d7",
+          "path": "/home/rdb9/palmer_scratch/"
         }
       }
     }
